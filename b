@@ -1,1 +1,1 @@
-Git rebase command check
+Git pull check
